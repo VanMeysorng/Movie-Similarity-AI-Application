@@ -13,9 +13,6 @@ Environment Setup:
 >> Install dependencies using pip install -r requirements.txt
 >> Set up Apache Spark locally or in a cluster environment.
 
-Data Preparation:
->> Download the MovieLens dataset (ml-100k) and place files (u.data, u.item) in the project directory.
-
 * Usage
 Running the Application:
 
