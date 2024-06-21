@@ -20,4 +20,4 @@ Data Preparation:
 Running the Application:
 
 Launch the application using Streamlit: 
-streamlit run app.py
+**streamlit run app.py**
