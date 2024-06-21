@@ -6,7 +6,7 @@
 * Features
 >> Cosine Similarity Calculation: Computes similarity between movies using cosine similarity on user ratings.
 
-* Setup Environment:
+* Setup Environment
 
 >> Ensure Python 3.x is installed.
 >> Install dependencies using pip install -r requirements.txt
