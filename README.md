@@ -17,4 +17,4 @@ Environment Setup:
 Running the Application:
 
 Launch the application using Streamlit: 
-**streamlit run main.py**
+>> **streamlit run main.py**
