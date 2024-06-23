@@ -15,5 +15,5 @@
 >> - Download and extract the MovieLens 100k dataset into a directory, e.g., SparkCourse/ml-100k/.
 
 ** Usage
-Launch the application using Streamlit: 
+>> Launch the application using Streamlit: 
 >> **streamlit run main.py**
