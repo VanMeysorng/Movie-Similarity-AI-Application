@@ -11,11 +11,9 @@
 
 ** Setup Environment
 
->> Ensure PySpark is installed (If not, install it using pip install pyspark).
->> Download and extract the MovieLens 100k dataset into a directory, e.g., SparkCourse/ml-100k/.
+>> - Ensure PySpark is installed (If not, install it using pip install pyspark).
+>> - Download and extract the MovieLens 100k dataset into a directory, e.g., SparkCourse/ml-100k/.
 
 ** Usage
-Running the Application:
-
 Launch the application using Streamlit: 
 >> **streamlit run main.py**
