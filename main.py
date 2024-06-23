@@ -172,7 +172,7 @@ if selected == "About":
 
     st.header("Get Started")
     st.markdown("""
-        Discover, explore, and enjoy the world of cinema like never before with [Your Webapp Name]. Start exploring today and let us guide you to your next movie night masterpiece.
+        Discover, explore, and enjoy the world of cinema like never before with us. Start exploring today and let us guide you to your next movie night masterpiece.
     """)
 
 
